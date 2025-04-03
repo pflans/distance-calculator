@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+h1 {
+  color: #222222;
+}
+
+p,
+label {
+  color: #4b4949;
+}
+
+html {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
